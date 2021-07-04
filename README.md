@@ -1,4 +1,4 @@
-# Predict Churn Score of a Customer #
+# Predict_Churn_Score_of_Customer #
 
 **Problem Statement**
 
