@@ -1,3 +1,5 @@
+# Predict Churn Score of a Customer #
+
 **Problem Statement**
 
 * One of the key metrics to measure a business success is by measuring its customer churn rate - the lower the churn, the more loved the company is.
